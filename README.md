@@ -7,6 +7,9 @@
 ### Run the Docker container:
 - `docker run -d -p 5000:5000 NicolasApp:latest`
 
+and then access the application at http://localhost:5000
+
+
 
 ### Local build environment:
 - requires python3.6 or higher
