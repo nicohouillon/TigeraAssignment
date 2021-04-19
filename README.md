@@ -2,7 +2,7 @@
 - Docker installed
 
 ### Build Docker image:
-- `docker build -t NicolasApp .`
+- `docker build -t NicolasApp .` (change app name as needed) 
 
 ### Run the Docker container:
 - `docker run -d -p 5000:5000 NicolasApp:latest`
