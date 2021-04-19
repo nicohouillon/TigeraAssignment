@@ -8,7 +8,7 @@
 - `docker run -d -p 5000:5000 NicolasApp:latest`
 
 
-###Local build environment:
+### Local build environment:
 - requires python3.6 or higher
 - prefered virtual environment with the following requirement.txt
 
